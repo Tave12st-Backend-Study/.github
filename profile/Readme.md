@@ -2,7 +2,7 @@
 
 ---
 
-> Tave12기 ‘김영한 화이팀’ 의 JPA 스터디 Organized입니다.
+> Tave12기 ‘김영한 화이팀’ 의 JPA 스터디 Organization 입니다.
 > 
 
 <br>
